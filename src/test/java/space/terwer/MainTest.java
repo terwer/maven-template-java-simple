@@ -1,11 +1,11 @@
-package com.terwergreen;
+package space.terwer;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
 /**
- * Unit test for simple App.
+ * @author terwer
  */
 public class MainTest {
     @Test

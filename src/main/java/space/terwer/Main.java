@@ -1,7 +1,7 @@
-package com.terwergreen;
+package space.terwer;
 
 /**
- * Hello World
+ * @author terwer
  */
 public class Main {
     public static void main(String[] args) {
